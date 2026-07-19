@@ -7,3 +7,8 @@ This simple program lets you enter the measurments are they are made and calcula
 
 This is 100% Claude generated, if anyone wants to make inprovments, developments etc that is most welcome
 
+I removed the EXE file, it turns out that if it is downloaded it will be blocked by the windows anti-virus. 
+
+I would suggest installing python 3, install pip, then numpy matplotlib and running the python version. You could also convert the python to exe locally and that will run just fine.  
+One plus of having python installed is you can either make your own scripts with Claude etc. 
+
